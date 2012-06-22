@@ -1,0 +1,1 @@
+For more information on this code, visit http://www.programmingmobile.com/2012/06/json-versus-xml-is-json-really-better.html
